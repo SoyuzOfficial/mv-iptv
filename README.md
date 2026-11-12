@@ -7,7 +7,7 @@ A comprehensive, curated collection of Maldivian television channels, radio stre
 Copy the raw link below to load the entire channel list directly into your player:
 
 ```
-[https://raw.githubusercontent.com/SoyuzOfficial/mv-iptv/main/maldives.m3u](https://raw.githubusercontent.com/SoyuzOfficial/mv-iptv/main/maldives.m3u)
+https://raw.githubusercontent.com/SoyuzOfficial/mv-iptv/main/maldives.m3u
 ```
 
 # [?] How to Watch:
