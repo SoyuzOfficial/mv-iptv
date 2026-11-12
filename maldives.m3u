@@ -1,0 +1,121 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Main",TVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://psm.mv/
+https://lana.psm.mv/live/tvm.m3u8
+
+#EXTINF:-1 group-title="Main",PSM News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://psm.mv/
+https://lana.psm.mv/live/nws.m3u8
+
+#EXTINF:-1 group-title="Main",YES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://psm.mv/
+https://lana.psm.mv/live/yes.m3u8
+
+#EXTINF:-1 group-title="Main",Munnaaru TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://psm.mv/
+https://lana.psm.mv/live/mun.m3u8
+
+#EXTINF:-1 group-title="Main",SSTV
+https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
+
+#EXTINF:-1 group-title="Main",Channel 13
+https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
+
+#EXTINF:-1 group-title="Main",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+
+#EXTINF:-1 group-title="Main",NTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+
+#EXTINF:-1 group-title="Main",Raajje TV (Hilay relay)
+https://hilaytv.xyz/raajje.m3u8
+
+#EXTINF:-1 group-title="Main",MM TV
+https://sendlive.online/hls/mmtv.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Voice Stream (Hilay)
+https://play.hilaytv.xyz/voicestream.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Zamaan 24 (Hilay)
+https://play.hilaytv.xyz/zamaan24.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Dhaaris TV (Hilay)
+https://play.hilaytv.xyz/dhaaristv.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Visual Radio TV (Hilay)
+https://play.hilaytv.xyz/visualradiotv.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Aslu TV (Hilay)
+https://hilaytv.xyz/aslutv.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Dhivehi Channel (Odysee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/fbb96e687fd9cd38a9071d3802e16d10a579be83/live.m3u8
+
+#EXTINF:-1 group-title="Other Dhivehi",Mendhuru TV (Odysee)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/922bf8086ea21419af43d1fef9732ab4ef5e901a/live.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Sounds MV
+https://sunplay-cdn.bitratelabs.com/live/sunplay/sounds-mv-f1a1de28fad66b51b4a4a88caea13d80/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Vaguthun Live
+https://sunplay-cdn.bitratelabs.com/live/sunplay-events/vaguthunlive-b8ba08e57d08b409592df77853730f39/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Mondhu Productions
+https://sunplay-cdn.bitratelabs.com/live/sunplay/mondhu-productions-3ef2da0e7f998fe8b3d44194d30d26cd/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",AfiringeTV
+https://sunplay-cdn.bitratelabs.com/live/sunplay/afiringetv-56b0aedf9dbb25427399e7ed4d054ade/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Dhivehi Screen
+https://sunplay-cdn.bitratelabs.com/live/sunplay/dhivehi-screen-ab7a4ac5df18617e30549204880e956e/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",CineZone
+https://sunplay-cdn.bitratelabs.com/live/sunplay/cine-zone-58610f543d1d21510e54a821f475e405/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Saturn Studio
+https://sunplay-cdn.bitratelabs.com/live/sunplay/setaan-studio-0a67c3d71143dbf0d533e236654caa9f/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Jumpy Toons
+https://sunplay-cdn.bitratelabs.com/live/sunplay/jumpy-toons-3ccaa4e927f92bbcc1c8d35ac0943823/index.m3u8
+
+#EXTINF:-1 group-title="Sun Play",Didi AI
+https://sunplay-cdn.bitratelabs.com/live/sunplay/did-ai-90268398e36c817279835077b4bddba7/index.m3u8
+
+#EXTINF:-1 group-title="Music",Hannaan TV
+https://sunplay-cdn.bitratelabs.com/live/sunplay/hannaan-songs-84c3b3c10f473b52317fef5f7133cdfd/index.m3u8
+
+#EXTINF:-1 group-title="Music",MHits
+https://sunplay-cdn.bitratelabs.com/live/sunplay/m-hits-780a8af3140fb1c7d7e1286b573c46c4/index.m3u8
+
+#EXTINF:-1 group-title="Music",Geet
+https://sunplay-cdn.bitratelabs.com/live/sunplay/geet-061786d9a8bb89a2fe745dd26fe2e13c/index.m3u8
+
+#EXTINF:-1 group-title="Music",Sindu
+https://sunplay-cdn.bitratelabs.com/live/sunplay/sindu-198cdfea16fbb6e01c839b6507ff6d72/index.m3u8
+
+#EXTINF:-1 group-title="Music",M Classic
+https://sunplay-cdn.bitratelabs.com/live/sunplay/m-classic-58a691427397bf790eb0ada7ec2d8e65/index.m3u8
+
+#EXTINF:-1 group-title="Music",SunPlay Music
+https://sunplay-cdn.bitratelabs.com/live/sunplay_music/music.m3u8
+
+#EXTINF:-1 group-title="Religious",Illmuge Adu
+https://sunplay-cdn.bitratelabs.com/live/sunplay/ilmuge-adu-002b89edd39045051d8a6fee1e6afbefd977743b/index.m3u8
+
+#EXTINF:-1 group-title="Religious",Quran Dhivehi Tharujamaa
+https://sunplay-cdn.bitratelabs.com/live/sunplay/sunplay-qdt-41c2b06e8ed4d89b3b3e30ebcaa2f9f6/index.m3u8
+
+#EXTINF:-1 group-title="Religious",Quran TV
+https://sunplay-cdn.bitratelabs.com/live/quran-tv/index.m3u8
+
+#EXTINF:-1 group-title="Religious",Quran & Science
+https://sunplay-cdn.bitratelabs.com/live/sunplay/quran-and-science-aa264391c5eda11b97b3ae132e1b6942/index.m3u8
