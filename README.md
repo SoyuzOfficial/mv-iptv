@@ -67,4 +67,4 @@ Quran TV,
 Quran & Science.
 
 # Disclaimer
-This is just a link collector for public streams. No videos are hosted here. Report broken links via GitHub Issues. Might take a while to fix errors, depends on the link, will let you all know.
+This is just a link collector for public streams. No videos are hosted here. Report broken links via GitHub Issues. Might take a while to fix errors, depends on the link, will let you all know. ps: feel free to share this to ur friends
