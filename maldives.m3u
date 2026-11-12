@@ -32,33 +32,33 @@ https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972
 #EXTINF:-1 group-title="Main",NTV
 https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
 
-#EXTINF:-1 group-title="Main",Raajje TV (Hilay relay)
+#EXTINF:-1 group-title="Main",Raajje TV
 https://hilaytv.xyz/raajje.m3u8
 
 #EXTINF:-1 group-title="Main",MM TV
 https://sendlive.online/hls/mmtv.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Voice Stream (Hilay)
+#EXTINF:-1 group-title="Other Dhivehi",Voice Stream
 https://play.hilaytv.xyz/voicestream.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Zamaan 24 (Hilay)
+#EXTINF:-1 group-title="Other Dhivehi",Zamaan 24
 https://play.hilaytv.xyz/zamaan24.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Dhaaris TV (Hilay)
+#EXTINF:-1 group-title="Other Dhivehi",Dhaaris TV
 https://play.hilaytv.xyz/dhaaristv.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Visual Radio TV (Hilay)
+#EXTINF:-1 group-title="Other Dhivehi",Visual Radio TV
 https://play.hilaytv.xyz/visualradiotv.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Aslu TV (Hilay)
+#EXTINF:-1 group-title="Other Dhivehi",Aslu TV
 https://hilaytv.xyz/aslutv.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Dhivehi Channel (Odysee)
+#EXTINF:-1 group-title="Other Dhivehi",Dhivehi Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fbb96e687fd9cd38a9071d3802e16d10a579be83/live.m3u8
 
-#EXTINF:-1 group-title="Other Dhivehi",Mendhuru TV (Odysee)
+#EXTINF:-1 group-title="Other Dhivehi",Mendhuru TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/922bf8086ea21419af43d1fef9732ab4ef5e901a/live.m3u8
