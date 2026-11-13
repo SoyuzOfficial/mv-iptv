@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Main",TVM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SoyuzOfficial/mv-iptv/main/logos/tvm.jpg" group-title="Main",TVM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://psm.mv/
 https://lana.psm.mv/live/tvm.m3u8
