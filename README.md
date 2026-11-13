@@ -63,7 +63,7 @@ SunPlay Music.
 ## Religious
 llmuge Adu,
 Quran Dhivehi Tharujamaa,
-Quran TV,
+Sunplay Quran TV,
 Quran & Science.
 
 # Disclaimer
