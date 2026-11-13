@@ -23,7 +23,7 @@ https://lana.psm.mv/live/mun.m3u8
 #EXTINF:-1 group-title="Main",SSTV
 https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
 
-#EXTINF:-1 group-title="Main",Channel 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SoyuzOfficial/mv-iptv/main/logos/c13.jpg" group-title="Main",Channel 13
 https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 group-title="Main",VTV
