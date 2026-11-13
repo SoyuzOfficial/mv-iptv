@@ -32,7 +32,7 @@ https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972
 #EXTINF:-1 group-title="Main",NTV
 https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
 
-#EXTINF:-1 group-title="Main",Raajje TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/SoyuzOfficial/mv-iptv/main/logos/rajje.png" group-title="Main",Raajje TV
 https://hilaytv.xyz/raajje.m3u8
 
 #EXTINF:-1 group-title="Main",MM TV
