@@ -119,3 +119,12 @@ https://sunplay-cdn.bitratelabs.com/live/quran-tv/index.m3u8
 
 #EXTINF:-1 group-title="Religious",Quran & Science
 https://sunplay-cdn.bitratelabs.com/live/sunplay/quran-and-science-aa264391c5eda11b97b3ae132e1b6942/index.m3u8
+
+#EXTINF:-1 group-title="Radio",Dhivehi Raajjeyge Adu
+https://radio.psm.mv/draair
+
+#EXTINF:-1 group-title="Radio",Dhivehi FM
+https://radio.psm.mv/fmair
+
+#EXTINF:-1 group-title="Radio",Dheenuge Adu
+https://radio.psm.mv/dheenugeaduair
